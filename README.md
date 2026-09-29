@@ -1,16 +1,25 @@
-# flutter_widgets
+Flutter Widgets
 
-A new Flutter project.
+A simple Flutter project created to learn and practice Flutter widgets by building a clean and systematic Login Page.
 
-## Getting Started
+📱 Project Overview
 
-This project is a starting point for a Flutter application.
+This project focuses on understanding how different Flutter widgets work together to create a structured and responsive login screen.
 
-A few resources to get you started if this is your first Flutter project:
+The main goal is to learn Flutter UI development through practical implementation rather than just using pre-built templates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Features
+🔐 Simple Login Page
+📧 Email input field
+🔒 Password input field
+👁️ Password visibility toggle
+🔑 Login button
+❓ Forgot Password option
+📝 Sign Up option
+✅ Basic form validation
+📱 Responsive layout
+🧩 Systematic widget structure
+🛠️ Tech Stack
+Flutter
+Dart
+Material Design
